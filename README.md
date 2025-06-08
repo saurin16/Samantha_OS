@@ -10,20 +10,6 @@
 
 Samantha is an AI assistant inspired by the movie *Her*. This project is built to provide real-time voice interactions using the Realtime API and Chainlit. Samantha acts as an agent that calls various tools to handle user requests, such as querying stock prices, executing SQL commands, generating images, and creating Python scripts.
 
-## YouTube Demo
-Watch a 2-minute demonstration of Samantha in action, where I showcase real-time voice interactions and various capabilities of the AI assistant.
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=qVstKgrwX_o">
-    <img src="images/thumbnail_short_demo.png" alt="YouTube Demo" width="500">
-  </a>
-  <br>
-  <em>👆 Click the image to watch the demo on YouTube</em>
-</p>
-
-
-## Setup and Running
-
 You can run Samantha either by setting up a virtual environment using `uv` or using Docker Compose. Note that setting up the environment variables is required in all cases.
 
 ### Option 1: Using Virtual Environment
