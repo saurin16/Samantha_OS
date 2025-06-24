@@ -1,0 +1,1 @@
+I'm thrilled to share that I'll be attending the Databricks AI Summit! 🚀💻 Looking forward to exploring the latest advancements in AI and connecting with industry leaders. 🤝 If you're attending, let's connect and share insights on the future of AI in data analytics! 💡 #AI #DataAnalytics #DatabricksAIsummit

@@ -65,7 +65,7 @@ async def draft_linkedin_post_handler(topic):
         linkedin_post = chain.invoke({"topic": topic}).content
 
         filepath = os.path.join(scratch_pad_dir, "linkedin_post.md")
-        with open(filepath, "w") as f:
+        with open(filepath, "w", encoding="utf-8") as f:
             f.write(linkedin_post)
 
         logger.info(f"💾 LinkedIn post saved successfully at {filepath}")
